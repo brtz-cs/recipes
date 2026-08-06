@@ -1,0 +1,5 @@
+releases:
+  id: 142630
+  rss: https://github.com/FiloSottile/age/releases.atom
+security:
+  cpe:
