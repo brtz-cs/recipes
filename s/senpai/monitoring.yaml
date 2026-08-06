@@ -1,0 +1,5 @@
+releases:
+  id: 390463
+  rss: https://github.com/delthas/senpai/releases.atom
+security:
+  cpe: ~ # No CPE found, last checked (2026-08-06)
